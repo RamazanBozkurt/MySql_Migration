@@ -1,0 +1,35 @@
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.exe
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.deps.json
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Yeni konsol.pdb
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.pdb
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\obj\Debug\netcoreapp3.1\Yeni konsol.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Lenovo\Desktop\Yeni konsol\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
