@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj": {}
+    "c:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj": {
+    "c:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj",
+        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj",
         "projectName": "Yeni konsol",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj",
+        "projectPath": "c:\\Users\\Lenovo\\Desktop\\Yeni konsol\\Yeni konsol.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Yeni konsol\\obj\\",
+        "outputPath": "c:\\Users\\Lenovo\\Desktop\\Yeni konsol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

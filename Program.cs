@@ -7,13 +7,13 @@ namespace Yeni_konsol
 {
     class Program
     {
-        public class ShopContext : DbContext
+        public class ShopContext : DbContext 
         {
             public DbSet<Product> Products { get; set; }
             public DbSet<Category> Categories { get; set; }
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseMySql("server=localhost; port=3306; database=ShopDb; user=root; password=15r!bozkurt2?0");
+                optionsBuilder.UseMySql("server=localhost; port=3306; database=ShopDb; user=root; password=132");
             }
         }
         public class Product 
